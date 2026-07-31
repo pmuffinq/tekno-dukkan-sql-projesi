@@ -48,5 +48,3 @@ Aşağıdaki tablo, `JOIN` komutu kullanılarak 3 farklı tablonun (Müşteriler
 <img width="815" height="140" alt="Ekran görüntüsü 2026-07-30 141505" src="https://github.com/user-attachments/assets/10bda0c2-4792-4131-b683-954f3cee02fa" />
 
 
-##  Hedefim
-İlk SQL projem olan bu çalışmayla veri tabanı mantığının temelini sağlam bir şekilde attığımı düşünüyorum. Yaklaşan staj sürecimde, bu temelin üzerine yeni teknolojiler eklemeyi ve gerçek dünya projelerinde deneyim kazanmayı hedefliyorum.
